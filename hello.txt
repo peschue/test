@@ -1,6 +1,5 @@
 hello world
 
-a
-s
 d
 f
+12 3 4 5
